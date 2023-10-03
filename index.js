@@ -1,7 +1,7 @@
 //Pablo González Ruiz
 //https://github.com/Pabloglezr8/TEMA2--PRUEVA-NO-EVALUABLE-.git
 
-const numero = prompt();
+let numero = parseFLoat(prompt("Por favor inserte un número"));
 
 if (numero === 0) {
     console.log("EL NUMERO ES CERO")
