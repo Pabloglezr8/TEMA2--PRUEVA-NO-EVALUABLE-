@@ -1,3 +1,6 @@
+//Pablo González Ruiz
+//https://github.com/Pabloglezr8/TEMA2--PRUEVA-NO-EVALUABLE-.git
+
 const numero = prompt();
 
 if (numero === 0) {
